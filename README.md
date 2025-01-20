@@ -35,6 +35,9 @@
 <td width="50%">
 <h3 align="center">Tienda digital de minimarket</h3>
 <div align="center">
-<a href="https://github.com/Litrox-7/Proyecto-Juan-perico" target="_blank"></a>
+  <a href="https://github.com/Litrox-7/Proyecto-Juan-perico" target="_blank">Ver repositorio</a>
 </div>                                                                               
 </td>
+</tr>
+</table>
+
